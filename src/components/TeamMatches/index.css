@@ -1,0 +1,53 @@
+.team-matches-bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+  align-items: center;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.team-matches-bg-container.rcb-bg {
+  background: linear-gradient(#a4261d, #1e293b);
+}
+
+.team-matches-bg-container.csk-bg {
+  background: linear-gradient(#f7db00, #1e293b);
+}
+
+.team-matches-bg-container.kkr-bg {
+  background: linear-gradient(#5755a7, #1e293b);
+}
+
+.team-matches-bg-container.rr-bg {
+  background: linear-gradient(#da237b, #1e293b);
+}
+
+.team-matches-bg-container.sh-bg {
+  background: linear-gradient(#f26d22, #0f172a);
+}
+
+.team-matches-bg-container.mi-bg {
+  background: linear-gradient(#13418b, #0f172a);
+}
+
+.team-matches-bg-container.dc-bg {
+  background: linear-gradient(#13418b, #0f172a);
+}
+
+.latest-heading {
+  color: white;
+}
+
+.loader-container {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

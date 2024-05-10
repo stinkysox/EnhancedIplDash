@@ -1,0 +1,21 @@
+.match-card-item {
+  display: flex;
+  align-items: center;
+  width: 280px;
+  background-color: #ffffff33;
+  padding: 8px;
+  border-radius: 8px;
+  margin: 12px;
+  font-weight: 500;
+  color: white;
+  font-family: Bree Serif;
+}
+
+.match-card-image {
+  height: 100px;
+  margin: 10px;
+}
+
+.match-card-links {
+  text-decoration: none;
+}

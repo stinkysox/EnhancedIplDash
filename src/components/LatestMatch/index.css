@@ -1,0 +1,17 @@
+* {
+  font-family: Bree Serif;
+}
+.latest-match-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1e293b;
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  width: 80%;
+}
+
+.competing-logo {
+  height: 240px;
+}

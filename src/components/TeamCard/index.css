@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.team-card {
+  background-color: #1e293b;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 12px;
+  text-align: center;
+  height: 380px;
+  width: 200px;
+  color: white;
+}
+
+.team-card-image {
+  height: 100px;
+}
+
+.competing-team-heading {
+  font-size: 18px;
+}
+
+.lost-class {
+  color: red;
+}
+
+.win-class {
+  color: green;
+}
